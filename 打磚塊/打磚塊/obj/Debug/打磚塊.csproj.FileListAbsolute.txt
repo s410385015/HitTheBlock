@@ -1,0 +1,9 @@
+c:\users\nako\documents\visual studio 2013\Projects\打磚塊\打磚塊\bin\Debug\打磚塊.exe.config
+c:\users\nako\documents\visual studio 2013\Projects\打磚塊\打磚塊\bin\Debug\打磚塊.exe
+c:\users\nako\documents\visual studio 2013\Projects\打磚塊\打磚塊\bin\Debug\打磚塊.pdb
+c:\users\nako\documents\visual studio 2013\Projects\打磚塊\打磚塊\obj\Debug\打磚塊.csprojResolveAssemblyReference.cache
+c:\users\nako\documents\visual studio 2013\Projects\打磚塊\打磚塊\obj\Debug\打磚塊.Form1.resources
+c:\users\nako\documents\visual studio 2013\Projects\打磚塊\打磚塊\obj\Debug\打磚塊.Properties.Resources.resources
+c:\users\nako\documents\visual studio 2013\Projects\打磚塊\打磚塊\obj\Debug\打磚塊.csproj.GenerateResource.Cache
+c:\users\nako\documents\visual studio 2013\Projects\打磚塊\打磚塊\obj\Debug\打磚塊.exe
+c:\users\nako\documents\visual studio 2013\Projects\打磚塊\打磚塊\obj\Debug\打磚塊.pdb
